@@ -18,11 +18,12 @@
   <p align="center">
 <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
+----MINNAL--------SER----
  <p align="center">
 <a href="#"><img title="MINNAL SER" src="https://i.imgur.com/cdEC5PS.jpeg"></a>
 </p>
   <p align="center">
-<a href="https://github.com/minnalser4"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/minnalser4"><img title="Author" src="https://img.shields.io/badge/Author-minnal-ser/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
