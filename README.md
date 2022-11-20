@@ -16,7 +16,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+<img src="https://i.imgur.com/VYfZfUK.mp4" alt="GIF" width="250" height="200"/>
 </p>
 ----MINNAL--------SER----
  <p align="center">
