@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning +2
 - 💞️ I’m looking to collaborate on WhatsApp bot
-- 📫 How to reach me wa.me/919400900501
+- 📫 How to reach me http://wa.me/919400900501
 
 
 ## <!-- Typing SVG -->
