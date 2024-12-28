@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=hello+guys+Welcome+To+minnal+ser+Repo."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=hello+guys+Welcome+To+vaichuz+Repo."
             alt="Typing SVG"
         />
     </a>
@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 MINNAL SER
  <p align="center">
-<a href="#"><img title="MINNAL SER" src="https://i.imgur.com/cdEC5PS.jpeg"></a>
+<a href="#"><img title="vaishnav" src="https://i.imgur.com/cdEC5PS.jpeg"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <p align="center">
@@ -29,7 +29,7 @@ MINNAL SER
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/minnalser4">minnalser4</a> 🍁
+Project created by <a href="https://github.com/minnalser4">vaichuz</a> 🍁
     <br>
        | © |
         Reserved |
